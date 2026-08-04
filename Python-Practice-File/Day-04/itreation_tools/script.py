@@ -1,0 +1,6 @@
+print("Hello worlds!")
+print ("this is my code ")
+print("And plz dont mind this code ")
+print("Bcoz i am writting this for fill the empty file")
+print("bcoz i need one emptyyyy file")
+print("Thats contain dome code")
